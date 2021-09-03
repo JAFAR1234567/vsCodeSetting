@@ -1,0 +1,28 @@
+{
+    "editor.cursorSmoothCaretAnimation": true,
+    "editor.cursorBlinking": "expand",
+    "editor.lineHeight": 25,
+    "files.autoSave": "afterDelay",
+    "prettier.useTabs": true,
+    "editor.formatOnSave": true,
+    "prettier.resolveGlobalModules": true,
+    "files.autoSaveDelay": 750,
+    "window.zoomLevel": 2,
+    "liveServer.settings.donotShowInfoMsg": true,
+    "explorer.confirmDelete": false,
+    "editor.tabSize": 2,
+    "editor.fontFamily": "Fira Code",
+    "editor.fontLigatures": true,
+    "editor.fontWeight": "",
+    "editor.fontSize": 14,
+    "terminal.integrated.fontWeight": null,
+    "terminal.integrated.localEchoStyle": true,
+    "editor.semanticHighlighting.enabled": true,
+    "workbench.iconTheme": "material-icon-theme",
+    "tailwindCSS.emmetCompletions": true,
+    "tailwindCSS.experimental.classRegex": [
+    
+    ],
+    "workbench.colorTheme": "Learn with Sumit - Simple as light",
+    "terminal.integrated.defaultProfile.windows": "Git Bash"
+}
